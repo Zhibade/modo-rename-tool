@@ -1,4 +1,4 @@
-# MODO Tool - IK/FK Match
+# MODO Tool - Quick Rename
 ## Overview
 MODO tool that allows the user to quickly rename, and add prefix and/or suffix to the selected or all items
 in the MODO scene
