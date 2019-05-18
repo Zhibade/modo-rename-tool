@@ -3,6 +3,8 @@
 MODO tool that allows the user to quickly rename, and add prefix and/or suffix to the selected or all items
 in the MODO scene
 
+![MODO - Quick Rename Tool](https://github.com/Zhibade/modo-rename-tool/blob/master/Misc/ModoQuickRenameTool.png?raw=true)
+
 ## How to Install
 - Clone/Download this repository
 - Copy the whole folder to your *Contents/Kits* folder (In MODO go to *System - Open Content Folder*)
