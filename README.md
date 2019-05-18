@@ -13,3 +13,6 @@ in the MODO scene
 - Clicking that button will open the tool's form
 - Customize the settings as needed
 - Click *Rename*
+
+**NOTE:** When using the character removal feature, if the number of characters to remove is greater than the original name the tool won't
+perform the character removal to prevent MODO from renaming the items as *Mesh*.
