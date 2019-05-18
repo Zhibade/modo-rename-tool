@@ -1,7 +1,7 @@
 # MODO Tool - Quick Rename
 ## Overview
-MODO tool that allows the user to quickly rename, and add prefix and/or suffix to the selected or all items
-in the MODO scene
+MODO tool that allows the user to quickly rename, remove characters, and/or append a prefix/suffix to the selected items or all items
+in the MODO scene.
 
 ![MODO - Quick Rename Tool](https://github.com/Zhibade/modo-rename-tool/blob/master/Misc/ModoQuickRenameTool.png?raw=true)
 
